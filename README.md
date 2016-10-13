@@ -7,6 +7,7 @@ LicenseFinder works with your package managers to find dependencies,
 detect the licenses of the packages in them, compare those licenses
 against a user-defined whitelist, and give you an actionable exception
 report.
+A license may be granted by a party ("licensor") to another party ("licensee") as an element of an agreement between those parties. A shorthand definition of a license is "an authorization (by the licensor) to use the licensed material (by the licensee)."
 
 * code: https://github.com/pivotal/LicenseFinder
 * support:
